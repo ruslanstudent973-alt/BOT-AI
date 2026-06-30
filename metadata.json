@@ -1,0 +1,6 @@
+{
+  "name": "Telegram To'lov Bot Paneli",
+  "description": "Telegram bot orqali to'lov cheklarini qabul qilish, Gemini AI yordamida chek haqiqiyligini tekshirish va adminga bildirishnomalar yuborish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
